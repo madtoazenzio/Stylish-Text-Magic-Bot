@@ -17,20 +17,20 @@ async def start(c, m):
 
 `I can help you to get stylish fonts. Just send me some text and see magic.`
 
-** Developer by :** ❤️ ▷ [@ZauteKm](https://t.me/ZauteKm/346)
+** Developer by :** ❤️ ▷ [@Z_Bots](https://t.me/Z_Bots)
 """
 
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('👥 Group', url=f"https://t.me/iZaute/5"),
-            InlineKeyboardButton('Channel 📢', url=f"https://t.me/iZaute/6")
+            InlineKeyboardButton('👥 Group', url=f"https://t.me/z_bots_support7"),
+            InlineKeyboardButton('Channel 📢', url=f"https://t.me/Z_Bots")
             ],[
             InlineKeyboardButton('❤️ Credit', url=f"https://t.me/{owner_username}"),
             InlineKeyboardButton('Bot Lists 🤖', url=f"https://t.me/iZaute/8"),
-            InlineKeyboardButton('GitHup 🤣', url=f"https://github.com/ZauteKm")
+            InlineKeyboardButton('GitHup 🤣', url=f"https://github.com/madtoazenzio")
             ],[
-            InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url=f"https://youtube.com/c/ZauteKm")
+            InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url=f"https://youtube.com/channel/UCBNR3HdxF8qQUqsMtfyxojQ")
         ]
     ]
     await m.reply_text(
