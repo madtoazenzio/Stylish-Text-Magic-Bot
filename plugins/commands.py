@@ -27,7 +27,7 @@ async def start(c, m):
             InlineKeyboardButton('Channel 📢', url=f"https://t.me/Z_Bots")
             ],[
             InlineKeyboardButton('❤️ Credit', url=f"https://t.me/{owner_username}"),
-            InlineKeyboardButton('Bot Lists 🤖', url=f"https://t.me/iZaute/8"),
+            InlineKeyboardButton('Bot Lists 🤖', url=f"https://t.me/Z_Bots/5"),
             InlineKeyboardButton('GitHup 🤣', url=f"https://github.com/madtoazenzio")
             ],[
             InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url=f"https://youtube.com/channel/UCBNR3HdxF8qQUqsMtfyxojQ")
